@@ -1,1 +1,1 @@
-# HATNet
+# MGTANet
